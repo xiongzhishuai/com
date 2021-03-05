@@ -1,4 +1,4 @@
-package com.tt;
+package com.test;
 
 public class Exce {
     public static void main(String[] args) {
